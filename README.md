@@ -11,7 +11,7 @@ pip install poetry
 
 2. Clone the repository and navigate to the project directory:
 ```sh
-git clone https://github.com/yourusername/mermaid_gantt
+git clone https://github.com/xrwr/mermaid_gantt
 cd mermaid_gantt
 ```
 
